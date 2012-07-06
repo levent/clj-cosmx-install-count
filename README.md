@@ -1,17 +1,7 @@
 # clj-cosmx
 
-A website written in noir. 
+A port of [cosmx-install-count](https://github.com/levent/cosmx-install-count) written in Clojure.
 
-## Usage
+There's no real point to this.
 
-```bash
-lein deps
-lein run
-```
-
-## License
-
-Copyright (C) 2011 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
-
+Just a hackday experiment to learn Noir.
